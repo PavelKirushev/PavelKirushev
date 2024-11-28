@@ -3,6 +3,8 @@
 
 <br><br>
 <img src="https://raw.githubusercontent.com/PavelKirushev/PavelKirushev/main/giphy.gif" width="200" height="200" alt="Coding GIF" align="right">
+
+
 <br><br>
 
 # Привет! 👋 Я Павел Кирушев
