@@ -1,26 +1,25 @@
-<h1 align="center">Привет! 👋 Я [Ваше имя]</h1>
-<h3 align="center">Стремлюсь создавать крутые проекты с использованием современных технологий</h3>
+<h1 align="center">Привет! 👋 Меня зовут Кирушев Павел
+<h3 align="center">Стремлюсь развиваться и бороться с прокрастинацией</h3>
 
 ---
 
 ### 👨‍🎓 Образование:
-- [Укажите своё образование: университет, факультет, специализация]
-
+- МИФИ, Системный анализ и управление: 2023-2024
+- Финансовый университет, Прикладная информатика: 2024-нв
 ---
 
 ### 🌟 Интересы:
 - 📱 Мобильная разработка
-- 🌐 Веб-приложения
-- 🤖 Искусственный интеллект и машинное обучение
-- 📈 Анализ данных
 
 ---
 
 ### 🛠️ Стек технологий:
 #### Языки программирования:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose%20)
+![Coroutines](https://img.shields.io/badge/Coroutines?style=for-the-badge&logoColor=orange)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose%20)
+
 
 #### Фреймворки и библиотеки:
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
