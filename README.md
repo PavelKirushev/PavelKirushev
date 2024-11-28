@@ -53,7 +53,7 @@
 ---
 
 ### 📫 Контакты:
-- **Телефон:** +7 (904) 2335412 (предпочитаемый способ связи)  
+- **Телефон:** +7 (904) 2335412
 - **Telegram:** [@klrushev](https://t.me/@klrushev)  
 - **Email:** [pavelkirushev@yandex.ru](mailto:pavelkirushev@yandex.ru)
 
