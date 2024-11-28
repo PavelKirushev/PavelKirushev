@@ -61,9 +61,9 @@
 
 ---
 
-<br><br>
-<img src="https://raw.githubusercontent.com/PavelKirushev/PavelKirushev/main/giphy.gif" width="200" height="200" alt="Coding GIF" align="right">
-<br><br>
+#### Пусть тут танцует енотик
+<img src="https://raw.githubusercontent.com/PavelKirushev/PavelKirushev/main/giphy.gif" width="200" height="200" alt="Coding GIF" align="center">
+
 
 ### 🔥 Мои проекты:
 <!--- [Приложение 1](https://github.com/ваш_ник/проект1): Приложение с использованием MVVM и корутин.  -->
