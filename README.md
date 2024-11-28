@@ -1,11 +1,3 @@
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://ybis.ru/wp-content/uploads/2023/09/kosmos-217.webp" alt="Background" style="width: 100%; height: auto; position: absolute; z-index: -1; top: 0; left: 0;">
-  <div style="position: relative; z-index: 1; padding-top: 150px;">
-    <h1>Привет! 👋 Я Павел Кирушев</h1>
-    <h3>Начинающий Android-разработчик</h3>
-    <p>Разработал несколько Android-приложений на Kotlin, демонстрирующих навыки в работе с MVVM, корутинами, базой данных и Compose.</p>
-  </div>
-</div>
 
 <h1 align="center">Привет! 👋 Я Павел Кирушев</h1>
 <h3 align="center">Стремлюсь развиваться и бороться с прокрастинацией</h3>
