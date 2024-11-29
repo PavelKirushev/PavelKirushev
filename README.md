@@ -40,7 +40,7 @@
 ![Room](https://img.shields.io/badge/ROOM-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### Многопоточность:
-- Коррутины (Kotlin Coroutines)
+- Корутины (Kotlin Coroutines)
 
 #### Инструменты разработки:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
